@@ -1,6 +1,6 @@
 # Indiana Megapack Rolling Update Project!
 
-## Important: This will be a rolling release, every few airports built, I will release an update.
+## Important: This will be a rolling release.  Files from here will always be up to date. 3rd Party websites will have periodic updates.
 
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
