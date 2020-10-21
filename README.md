@@ -18,6 +18,9 @@ I started with Neofly from my homestate of Indiana in my alma mater of Purdue Un
 ##### Current Status
 Working on getting a lot of vegetation up to date.  There aren't too many height updates.  Trying to not cover up houses and roads with trees.
 
+Also, I will soon break out the scenery and individual airports into seperate folders so you will be able to pick and chose what you want in your community folder.
+
+
 ##### Features
 - Hand crafted airports and scenery of surrounding area
 - Plenty of GA parking spots at each airport
@@ -51,8 +54,8 @@ Coming soon
 Coming soon
 
 
-####Notice
-Do not redistribute/host unless given prior consent.
+#### Notice
+Do not redistribute/host unless given prior consent.  External linking to this page/site/files is okay.
 
 
 If you enjoyed it as well and would like to donate, it is very much appreciated but never will be required.  I am doing this to add to the community's total assets of airports and scenery and because honestly, I found I really enjoy doing this.  I only strive to make content that others can enjoy.
