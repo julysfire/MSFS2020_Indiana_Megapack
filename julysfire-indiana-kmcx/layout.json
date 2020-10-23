@@ -1,19 +1,19 @@
 {
   "content": [
     {
-      "path": "manifest.json",
-      "size": 292,
-      "date": 132475890063685107
+      "path": "ContentInfo/julysfire-indiana-kmcx/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132399197780000000
     },
     {
       "path": "MaterialLibs/mymaterials/Library.xml",
       "size": 959,
-      "date": 132475176314058286
+      "date": 132478932305346916
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS",
-      "size": 2097280,
-      "date": 132475176242368423
+      "size": 699236,
+      "date": 132477982965115549
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.FLAGS",
@@ -23,22 +23,22 @@
     {
       "path": "MaterialLibs/mymaterials/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS.json",
       "size": 231,
-      "date": 132475176242318368
+      "date": 132477982965085519
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
       "size": 56,
-      "date": 132475176314273564
+      "date": 132478932305634169
     },
     {
-      "path": "scenery/world/scenery/MAINPOLIES.BGL",
-      "size": 155306,
-      "date": 132477331025025751
+      "path": "scenery/world/scenery/POLYSKMCX.BGL",
+      "size": 930,
+      "date": 132478932306444904
     },
     {
-      "path": "scenery/world/scenery/objects.bgl",
-      "size": 75332,
-      "date": 132477331016354127
+      "path": "scenery/world/scenery/scenekmcx.bgl",
+      "size": 46697,
+      "date": 132478932306324788
     }
   ]
 }
