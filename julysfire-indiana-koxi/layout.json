@@ -8,11 +8,7 @@
     {
       "path": "MaterialLibs/mymaterials/Library.xml",
       "size": 959,
-<<<<<<< HEAD
       "date": 132478932316719441
-=======
-      "date": 132478068855508942
->>>>>>> 594ae53ff7ef71b02e41f46b727eff9c7fe30dde
     },
     {
       "path": "MaterialLibs/mymaterials/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS",
@@ -32,20 +28,12 @@
     {
       "path": "scenery/world/scenery/koxiscene.bgl",
       "size": 29471,
-<<<<<<< HEAD
-      "date": 132478932317239907
-=======
-      "date": 132477982974313919
->>>>>>> 594ae53ff7ef71b02e41f46b727eff9c7fe30dde
+      "date": 132479091559483206
     },
     {
       "path": "scenery/world/scenery/KOXISHAPES.BGL",
       "size": 1178,
-<<<<<<< HEAD
       "date": 132478932317350014
-=======
-      "date": 132477982974424013
->>>>>>> 594ae53ff7ef71b02e41f46b727eff9c7fe30dde
     }
   ]
 }
