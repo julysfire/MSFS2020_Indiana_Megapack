@@ -6,9 +6,14 @@
       "date": 132399197780000000
     },
     {
+      "path": "manifest.json",
+      "size": 302,
+      "date": 132479091560343987
+    },
+    {
       "path": "scenery/world/scenery/kiwhscene.bgl",
-      "size": 3925,
-      "date": 132479091560093759
+      "size": 13349,
+      "date": 132479951775167568
     }
   ]
 }
