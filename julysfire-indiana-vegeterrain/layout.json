@@ -6,19 +6,14 @@
       "date": 132399197780000000
     },
     {
-      "path": "manifest.json",
-      "size": 311,
-      "date": 132497697568921502
-    },
-    {
       "path": "scenery/world/sceneryindianaveg/MAINPOLIES.BGL",
-      "size": 246807,
-      "date": 132497941008486474
+      "size": 259362,
+      "date": 132498508884093638
     },
     {
       "path": "scenery/world/sceneryindianaveg/objects.bgl",
       "size": 56,
-      "date": 132497940998877734
+      "date": 132498508873922953
     }
   ]
 }
