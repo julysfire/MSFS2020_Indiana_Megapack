@@ -6,64 +6,59 @@
       "date": 132399197780000000
     },
     {
-      "path": "manifest.json",
-      "size": 304,
-      "date": 132497697557780131
-    },
-    {
       "path": "scenery/global/modelskiwh/modelskiwh.BGL",
       "size": 636476,
-      "date": 132497880509078183
+      "date": 132498056944051247
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/MAINBUILDING.PNG.DDS",
       "size": 89478640,
-      "date": 132497880508437599
+      "date": 132498056738275894
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/MAINBUILDING.PNG.DDS.json",
       "size": 119,
-      "date": 132497880507446696
+      "date": 132498056737385104
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/MAINBUILDINGNORMAL.PNG.DDS",
       "size": 89478640,
-      "date": 132497880449485916
+      "date": 132498056678274260
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/MAINBUILDINGNORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 132497880448485004
+      "date": 132498056677383450
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/PAVILLCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132497690102899907
+      "date": 132498056755196936
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/PAVILLCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132497690102689717
+      "date": 132498056755016770
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/PAVILLNORMAL.PNG.DDS",
       "size": 22369796,
-      "date": 132497690295666582
+      "date": 132498056943640873
     },
     {
       "path": "scenery/global/modelskiwh/TEXTURE/PAVILLNORMAL.PNG.DDS.json",
       "size": 191,
-      "date": 132497690295456390
+      "date": 132498056943470716
     },
     {
       "path": "scenery/world/scenerykiwh/AIRPORTAREA.BGL",
       "size": 1161,
-      "date": 132497880509798838
+      "date": 132498056944892014
     },
     {
       "path": "scenery/world/scenerykiwh/kiwhscene.bgl",
-      "size": 39005,
-      "date": 132497880509688737
+      "size": 44129,
+      "date": 132498056944771911
     }
   ]
 }
