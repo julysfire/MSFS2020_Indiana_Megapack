@@ -2,6 +2,8 @@
 
 ## IMPORTANT: I have opted for a structure that will make this pack as modular as possible.  Each folder above is going to be a different airport/scenery item.  The above folders are the items that go into your Community folder.  This means you can mix and match any airport sets you want.  While not required, I recommend the vegetation/height folder (any airport dependent terrain corrections are housed in their airport's folder).
 
+##TLDR: Copy the folders you want out, doesn't have to be all
+
 #### Not as important: This will be a rolling release.  Files from here will always be up to date. 3rd Party websites will have periodic updates.
 
 #### Author: Julysfire
