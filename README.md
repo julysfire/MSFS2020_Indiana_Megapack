@@ -24,7 +24,7 @@ This will be a rolling release.  Files from here will always be up to date. 3rd 
 #### Current Status
 Working on getting a lot of vegetation up to date.  There aren't too many height updates.  Trying to not cover up houses and roads with trees.
 
-Also, I will soon break out the scenery and individual airports into seperate folders so you will be able to pick and chose what you want in your community folder.
+I have a list of airports so far that I would like to work on so I'll be going through that list.
 
 
 #### Features
