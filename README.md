@@ -4,8 +4,6 @@
 
 ## TLDR: Copy the folders you want out, doesn't have to be all
 
-#### Not as important: This will be a rolling release.  Files from here will always be up to date. 3rd Party websites will have periodic updates.
-
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
 
@@ -18,7 +16,10 @@ Currently Included Airports
 - KIWH - Wabash Municipal Airport, Wabash
 
 #### Summary
-I started with Neofly from my homestate of Indiana in my alma mater of Purdue University (KLAF).  Upon doing some flying to different smaller airports in Indiana, I noticed that a lot of the scenery and airports could use a bit love.  The goal of this megapack is to update a lot of the smaller Indiana airports as well as making Indiana look as close to real life as possible.  Due to the size of the scope of this project, I will be doing rolling updates on this site (the folder(s) above or in the ZIP will always be the most up to date from here) while the 3rd part websites (Flightsim.to and Nexusmods) will have periodic updates. 
+I started with Neofly from my homestate of Indiana in my alma mater of Purdue University (KLAF).  Upon doing some flying to different smaller airports in Indiana, I noticed that a lot of the scenery and airports could use a bit love.  The goal of this megapack is to update a lot of the smaller Indiana airports as well as making Indiana look as close to real life as possible.  Due to the size of the scope of this project, I will be doing rolling updates on this site (the folder(s) above or in the ZIP will always be the most up to date from here) while the 3rd part websites (Flightsim.to and Nexusmods) will have periodic updates.
+
+This will be a rolling release.  Files from here will always be up to date. 3rd Party websites will have periodic updates.
+
 
 #### Current Status
 Working on getting a lot of vegetation up to date.  There aren't too many height updates.  Trying to not cover up houses and roads with trees.
