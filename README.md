@@ -106,7 +106,7 @@ For the Boxed edition:
 ## Example of Vegetation Updates
 ### A lot of vegetation is not reconigzed in the Sim and is manually updated.  This is done all around the state.
 
-![Screen0](Screenshots/KIWH/VegBeforeExample.PNG)
+![Screen0](Screenshots/VegBeforeExample.PNG)
 
 ![Screen0](Screenshots/VegAfterExample.PNG)
 
