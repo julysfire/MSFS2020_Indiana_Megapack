@@ -1,6 +1,6 @@
 # Indiana Megapack Project!
 
-### Important: Read install instructions
+#### Important: Read install instructions
 
 #### Author: Julysfire
 Discord: julysfire#9465        MSFS2020: blackflame0729
@@ -38,9 +38,8 @@ I have a list of airports so far that I would like to work on so I'll be going t
 I have opted for a structure that will make this pack as modular as possible.  Each folder above is going to be a different airport/scenery item.  The above folders are the items that go into your Community folder.  This means you can mix and match any airport sets you want.  While not required, I recommend the vegetation/height folder (any airport dependent terrain corrections are housed in their airport's folder).
 
 
-1. Download the .zip file(s) from the releases or the "Zipped Folders" folder.  Alternatively, you can download everything (at the top, Click the green Code button and Download ZIP).
-2. Extract the files from the .ZIP
-3. Move the desired folders into your Microsoft Flight Simulator Community Folder.  This will allow you to have a choice of which airports to include.
+1. Download the .zip file and extract the .zip folder.  Alternatively, you can download everything (at the top, Click the green Code button and Download ZIP).
+2. Move the desired folders into your Microsoft Flight Simulator Community Folder.  This will allow you to have a choice of which airports to include.  Each airport is within it's own folder.
 
 For the Microsoft Store edition AND/OR Gamepass edition:
 
@@ -97,7 +96,7 @@ For the Boxed edition:
 
 ![Screen0](Screenshots/KIWH/KIWH2.PNG)
 
-![Screen0](Screenshots/KIWH/KIWH3.PNG)
+![Screen0](Screenshots/KIWH/kiwh3.PNG)
 
 ![Screen0](Screenshots/KIWH/KIWH5.PNG)
 
