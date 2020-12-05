@@ -29,7 +29,8 @@ I have a list of airports so far that I would like to work on so I'll be going t
 - Hand crafted airports and scenery of surrounding area
 - Plenty of GA parking spots at each airport
 - Some water height level fixes along the Tippacanoe river.
-- Added **lots** of vegetation where auto generated spots failed.  It seems the auto generated vegetation stops working in rural areas and near houses.
+- Added **lots** of vegetation where auto generated spots failed.  Also fixed a lot of additional vegetation spawning (biggest issue is on top of power lines).
+- Current Amount of vegetation/height fixes: **2087**.
 - Realistic look and feel
 - Realistic night lighting around the hangars/runway/aprons
 
