@@ -31,7 +31,7 @@ I have a list of airports so far that I would like to work on so I'll be going t
 - Some water height level fixes along the Tippacanoe river.
 - Additional water fixes of rivers/lakes/ponds/streams not counting as water.
 - Added **lots** of vegetation and water where auto generated spots failed.  Also fixed a lot of issues where additional vegetation was spawning where it was not supposed to (biggest issue is on top of power lines, on railroad tracks, on roads, or in fields).
-- Current Amount of vegetation/height/water fixes: **2884**.
+- Current Amount of vegetation/height/water fixes: **3046**.
 - Realistic look and feel.
 - Realistic night lighting around the hangars/runway/aprons.
 
@@ -92,6 +92,7 @@ For the Boxed edition:
 ![Screen0](Screenshots/KOXI/KOXI9.PNG)
 
 
+
 ## KIWH - Wabash Municipal Airport, Knox
 
 ![Screen0](Screenshots/KIWH/KIWH1.PNG)
@@ -103,6 +104,8 @@ For the Boxed edition:
 ![Screen0](Screenshots/KIWH/KIWH5.PNG)
 
 ![Screen0](Screenshots/KIWH/KIWH7.PNG)
+
+
 
 ## Example of Vegetation Updates
 ### A lot of vegetation is not reconigzed in the Sim and is manually updated.  This is done all around the state.
