@@ -31,7 +31,7 @@ I have a list of airports so far that I would like to work on so I'll be going t
 - Some water height level fixes along the Tippacanoe river.
 - Additional water fixes of rivers/lakes/ponds/streams not counting as water.
 - Added **lots** of vegetation and water where auto generated spots failed.  Also fixed a lot of issues where additional vegetation was spawning where it was not supposed to (biggest issue is on top of power lines, on railroad tracks, on roads, or in fields).
-- Current Amount of vegetation/height/water fixes: **3612**.
+- Current Amount of vegetation/height/water fixes: **3893**.
 - Realistic look and feel.
 - Realistic night lighting around the hangars/runway/aprons.
 
@@ -54,6 +54,14 @@ For the Steam edition:
 For the Boxed edition:
 
 	C:\Users\[YOUR USERNAME]\AppData\Local\MSFSPackages\Community
+
+
+
+## Full List of Corrections as of 3/24/2021
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=17pRdp7RXoddxQ43SRUQCeIvOmlx8DDMR" width="640" height="480"></iframe>
+
+
 
 ## Screenshots
 
