@@ -123,6 +123,14 @@ For the Boxed edition:
 
 ![Screen0](Screenshots/VegAfterExample.PNG)
 
+![Screen0](Screenshots/VegFieldBefore.PNG)
+
+![Screen0](Screenshots/VegFieldAfter.PNG)
+
+![Screen0](Screenshots/VegWaterBefore.PNG)
+
+![Screen0](Screenshots/VegWaterAfter.PNG)
+
 #### Notice
 Do not redistribute/host unless given prior consent.  External linking to this page/site/files is okay.
 
