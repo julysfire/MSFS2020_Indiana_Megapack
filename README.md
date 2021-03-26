@@ -57,8 +57,8 @@ For the Boxed edition:
 
 
 
-## Full List of Corrections Terrain/Veg/Water Corrections as of 3/24/2021
-#### Click map to go to Google Map version
+## Full List of Corrections Terrain/Veg/Water Corrections as of 3/25/2021
+#### Click map to go to Google Map version!
 
 [![Check Out The Map](Screenshots/VegMap.PNG)](https://www.google.com/maps/d/u/0/embed?mid=17pRdp7RXoddxQ43SRUQCeIvOmlx8DDMR)
 
