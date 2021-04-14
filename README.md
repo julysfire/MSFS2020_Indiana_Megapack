@@ -12,6 +12,7 @@ Currently Included Airports
 - KMCX - White County Airport, Monticello
 - KOXI - Stark County Airport, Knox
 - KIWH - Wabash Municipal Airport, Wabash
+- 1I8  - Converse Airport, Converse
 
 #### Summary
 I started with Neofly from my homestate of Indiana in my alma mater of Purdue University (KLAF).  Upon doing some flying to different smaller airports in Indiana, I noticed that a lot of the scenery and airports could use a bit love.  The goal of this megapack is to update a lot of the smaller Indiana airports as well as making Indiana look as close to real life as possible.  Due to the size of the scope of this project, I will be doing rolling updates on this site (the folder(s) above or in the ZIP will always be the most up to date from here) while the 3rd part websites (Flightsim.to and Nexusmods) will have periodic updates.
@@ -114,6 +115,15 @@ For the Boxed edition:
 ![Screen0](Screenshots/KIWH/KIWH5.PNG)
 
 ![Screen0](Screenshots/KIWH/KIWH7.PNG)
+
+
+## 1I8 - Converse Airport, Converse
+
+![Screen0](Screenshots/1I8/1.PNG)
+
+![Screen0](Screenshots/1I8/2.PNG)
+
+![Screen0](Screenshots/1I8/3.PNG)
 
 
 
