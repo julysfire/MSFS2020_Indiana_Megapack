@@ -32,7 +32,7 @@ I have a list of airports so far that I would like to work on so I'll be going t
 - Some water height level fixes along the Tippacanoe river.
 - Additional water fixes of rivers/lakes/ponds/streams not counting as water.
 - Added **lots** of vegetation and water where auto generated spots failed.  Also fixed a lot of issues where additional vegetation was spawning where it was not supposed to (biggest issue is on top of power lines, on railroad tracks, on roads, or in fields).
-- Current Amount of vegetation/height/water fixes: **6262**.
+- Current Amount of vegetation/height/water fixes: **7315**.
 - Added 128 missing Wind Turbines
 - Realistic look and feel.
 - Realistic night lighting around the hangars/runway/aprons.
@@ -59,7 +59,7 @@ For the Boxed edition:
 
 
 
-## Full List of Corrections Terrain/Veg/Water Corrections as of 4/5/2021
+## Full List of Corrections Terrain/Veg/Water Corrections as of 4/16/2021
 #### Click map to go to Google Map version!
 
 [![Check Out The Map](Screenshots/VegMap.PNG)](https://www.google.com/maps/d/u/0/embed?mid=17pRdp7RXoddxQ43SRUQCeIvOmlx8DDMR)
