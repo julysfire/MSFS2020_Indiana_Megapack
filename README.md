@@ -11,8 +11,7 @@ Currently Included Airports
 - KOXI - Stark County Airport, Knox
 - KIWH - Wabash Municipal Airport, Wabash
 - 1I8  - Converse Airport, Converse
-
-- WIP: KBFR is currently a work in progress pending custom 3D assets (see second paragraph in 'Current Status')
+- KBFR  - Virgil I Grissom Municipal Airport, Bedford
 
 
 ### Summary
@@ -24,7 +23,7 @@ For the most up to date files, the ones above can be downloaded.  I will still h
 ### Current Status
 Working on getting a lot of vegetation up to date.  There aren't too many height updates.  Trying to not cover up houses and roads with trees.
 
-I have a list of airports so far that I would like to work on but I am taking a step away from airports as the custom 3D modeling isn't my fortay and I have been having a lot less free time to dedicate to continued growth in Blender so right now, making 3D custom objects is extremely time consuming.  Working on vegetation/height/water/some scenery fixes on the other hand is a lot better and I even find it relaxing so I want to continue working on these type of items in the future.  Airports where I can fit a lot of the default scenery that can blend well and looks close to what is there will be worked on as well.  I enjoy improving airports, just not the 3D modeling as much currently.  This may change depending on a lot of IRL stuff.
+Working on vegetation/height/water/some scenery fixes on the other hand is a lot better and I even find it relaxing so I want to continue working on these type of items in the future.  Airports where I can fit a lot of the default scenery that can blend well and looks close to what is there will be worked on as well.  Airports take a lot more time so those will be a bit less common in updates.
 
 
 ### Features
@@ -128,6 +127,20 @@ For the Boxed edition:
 
 ![Screen0](Screenshots/1I8/3.PNG)
 
+
+## KBFR - Virgil I Grissom Municipal Airport, Bedford
+
+![Screen0](Screenshots/KBFR/4.PNG)
+
+![Screen0](Screenshots/KBFR/1.PNG)
+
+![Screen0](Screenshots/KBFR/7.PNG)
+
+![Screen0](Screenshots/KBFR/2.PNG)
+
+![Screen0](Screenshots/KBFR/5.PNG)
+
+![Screen0](Screenshots/KBFR/6.PNG)
 
 
 ## Example of Vegetation Updates

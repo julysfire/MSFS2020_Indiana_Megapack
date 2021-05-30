@@ -1,0 +1,84 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/julysfire-indiana-kbfr/Thumbnail.jpg",
+      "size": 28743,
+      "date": 132668662397364513
+    },
+    {
+      "path": "scenery/global/scenerykbfr/modelskbfr.BGL",
+      "size": 5025520,
+      "date": 132668663536656067
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/FBOCOLOR.PNG.DDS",
+      "size": 11184952,
+      "date": 132668663328540141
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/FBOCOLOR.PNG.DDS.json",
+      "size": 102,
+      "date": 132668663328439717
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/GLASSPANE.PNG.DDS",
+      "size": 20192,
+      "date": 132668663313694983
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/GLASSPANE.PNG.DDS.json",
+      "size": 102,
+      "date": 132668663313694983
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/HANGCOLOR.PNG.DDS",
+      "size": 22369776,
+      "date": 132668663344349790
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/HANGCOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132668663344189743
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLCOLOR.PNG.DDS",
+      "size": 22369776,
+      "date": 132668663360516724
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLCOLOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132668663360345744
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLNORMAL.PNG.DDS",
+      "size": 22369796,
+      "date": 132668663536290111
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLNORMAL.PNG.DDS.json",
+      "size": 191,
+      "date": 132668663536138995
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/TEX2.PNG.DDS",
+      "size": 89478640,
+      "date": 132668663313233342
+    },
+    {
+      "path": "scenery/global/scenerykbfr/TEXTURE/TEX2.PNG.DDS.json",
+      "size": 119,
+      "date": 132668663312409738
+    },
+    {
+      "path": "scenery/world/scenerykbfr/kbfrpolies.bgl",
+      "size": 7858,
+      "date": 132668663537589667
+    },
+    {
+      "path": "scenery/world/scenerykbfr/kbfrscene.bgl",
+      "size": 32506,
+      "date": 132668663537239151
+    }
+  ]
+}
