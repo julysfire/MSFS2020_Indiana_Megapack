@@ -7,13 +7,13 @@
     },
     {
       "path": "MaterialLibs/mymaterialskmcx/Library.xml",
-      "size": 959,
-      "date": 132664475775624437
+      "size": 709,
+      "date": 132750901801256389
     },
     {
-      "path": "MaterialLibs/mymaterialskmcx/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS",
+      "path": "MaterialLibs/mymaterialskmcx/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS",
       "size": 699236,
-      "date": 132664475777166314
+      "date": 132750901803009891
     },
     {
       "path": "MaterialLibs/mymaterialskmcx/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.FLAGS",
@@ -21,19 +21,19 @@
       "date": 132474240900365894
     },
     {
-      "path": "MaterialLibs/mymaterialskmcx/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS.json",
+      "path": "MaterialLibs/mymaterialskmcx/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.json",
       "size": 231,
-      "date": 132664475777156302
+      "date": 132750901802999889
     },
     {
       "path": "scenery/world/scenerykmcx/polyskmcx.bgl",
       "size": 1152,
-      "date": 132664475778027091
+      "date": 132750901803680498
     },
     {
       "path": "scenery/world/scenerykmcx/scenekmcx.bgl",
       "size": 46149,
-      "date": 132664475777816895
+      "date": 132750901803540373
     }
   ]
 }

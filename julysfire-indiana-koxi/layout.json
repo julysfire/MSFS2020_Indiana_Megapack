@@ -7,13 +7,13 @@
     },
     {
       "path": "MaterialLibs/mymaterialskoxi/Library.xml",
-      "size": 959,
-      "date": 132664475735275412
+      "size": 709,
+      "date": 132750901821282164
     },
     {
-      "path": "MaterialLibs/mymaterialskoxi/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS",
+      "path": "MaterialLibs/mymaterialskoxi/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS",
       "size": 699236,
-      "date": 132664475746694600
+      "date": 132750901822960505
     },
     {
       "path": "MaterialLibs/mymaterialskoxi/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.FLAGS",
@@ -21,19 +21,19 @@
       "date": 132474240900365894
     },
     {
-      "path": "MaterialLibs/mymaterialskoxi/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS.json",
+      "path": "MaterialLibs/mymaterialskoxi/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.json",
       "size": 231,
-      "date": 132664475746674573
+      "date": 132750901822950493
     },
     {
       "path": "scenery/world/scenerykoxi/koxiscene.bgl",
       "size": 28903,
-      "date": 132664475747175032
+      "date": 132750901823350862
     },
     {
       "path": "scenery/world/scenerykoxi/koxishapes.bgl",
       "size": 1178,
-      "date": 132664475747385222
+      "date": 132750901823480982
     }
   ]
 }

@@ -7,78 +7,78 @@
     },
     {
       "path": "scenery/global/scenerykbfr/modelskbfr.BGL",
-      "size": 5025520,
-      "date": 132668663536656067
+      "size": 5025716,
+      "date": 132750901950702525
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/FBOCOLOR.PNG.DDS",
+      "path": "scenery/global/scenerykbfr/texture/FBOCOLOR.PNG.DDS",
       "size": 11184952,
-      "date": 132668663328540141
+      "date": 132750901907717096
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/FBOCOLOR.PNG.DDS.json",
+      "path": "scenery/global/scenerykbfr/texture/FBOCOLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132668663328439717
+      "date": 132750901907617006
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/GLASSPANE.PNG.DDS",
+      "path": "scenery/global/scenerykbfr/texture/GLASSPANE.PNG.DDS",
       "size": 20192,
-      "date": 132668663313694983
+      "date": 132750901892678613
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/GLASSPANE.PNG.DDS.json",
+      "path": "scenery/global/scenerykbfr/texture/GLASSPANE.PNG.DDS.json",
       "size": 102,
-      "date": 132668663313694983
+      "date": 132750901892678613
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/HANGCOLOR.PNG.DDS",
+      "path": "scenery/global/scenerykbfr/texture/HANGCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132668663344349790
+      "date": 132750901924220733
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/HANGCOLOR.PNG.DDS.json",
+      "path": "scenery/global/scenerykbfr/texture/HANGCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132668663344189743
+      "date": 132750901924060588
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLCOLOR.PNG.DDS",
+      "path": "scenery/global/scenerykbfr/texture/PAVILLCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132668663360516724
+      "date": 132750901940612540
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLCOLOR.PNG.DDS.json",
+      "path": "scenery/global/scenerykbfr/texture/PAVILLCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132668663360345744
+      "date": 132750901940442393
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLNORMAL.PNG.DDS",
-      "size": 22369796,
-      "date": 132668663536290111
+      "path": "scenery/global/scenerykbfr/texture/PAVILLNORMAL.PNG.DDS",
+      "size": 11184952,
+      "date": 132750901949951835
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/PAVILLNORMAL.PNG.DDS.json",
-      "size": 191,
-      "date": 132668663536138995
+      "path": "scenery/global/scenerykbfr/texture/PAVILLNORMAL.PNG.DDS.json",
+      "size": 166,
+      "date": 132750901949851744
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/TEX2.PNG.DDS",
+      "path": "scenery/global/scenerykbfr/texture/TEX2.PNG.DDS",
       "size": 89478640,
-      "date": 132668663313233342
+      "date": 132750901892508460
     },
     {
-      "path": "scenery/global/scenerykbfr/TEXTURE/TEX2.PNG.DDS.json",
+      "path": "scenery/global/scenerykbfr/texture/TEX2.PNG.DDS.json",
       "size": 119,
-      "date": 132668663312409738
+      "date": 132750901891597634
     },
     {
       "path": "scenery/world/scenerykbfr/kbfrpolies.bgl",
       "size": 7858,
-      "date": 132668663537589667
+      "date": 132750901951322936
     },
     {
       "path": "scenery/world/scenerykbfr/kbfrscene.bgl",
       "size": 32506,
-      "date": 132668663537239151
+      "date": 132750901951132908
     }
   ]
 }
