@@ -19,6 +19,31 @@ I started with Neofly from my homestate of Indiana in my alma mater of Purdue Un
 
 For the most up to date files, the ones above can be downloaded.  I will still have releases on here, FlightSim.to and Nexusmods, however those will be a bit less frequent.  At the top, if you click on the "Code" button and select "Download as Zip", once you extract the ZIP folder, you will have the most recent files and you can choose which ones you want to add to your Community folder.
 
+###Update - V1.2.0
+
+--KOXI--
+- Fixed broken taxiways and hold shorts
+- Fixed parking spots not connecting properly (this will fix any issues with ATC/guidelines)
+- Updated positioning based on World Update X meshes
+- Included some hangars that went missing
+
+--KIWH--
+- Updated positioning based on World Update X meshes
+- Connected taxiways to parking spots (this will fix any issues with ATC/guidelines)
+- Updated broken hold shorts
+
+--KMCX--
+- Updated positioning based on World Update X meshes
+- Connected taxiways to parking spots (this will fix any issues with ATC/guidelines)
+- Updated broken taxiways and hold shorts
+
+--KBFR--
+- Updated positioning based on World Update X meshes
+- Connected taxiways to parking spots (this will fix any issues with ATC/guidelines)
+- Added taxiways out to runway 31
+
+--1I8--
+- Updated positioning based on World Update X meshes
 
 ### Current Status
 Working on getting a lot of vegetation up to date.  There aren't too many height updates.  Trying to not cover up houses and roads with trees.

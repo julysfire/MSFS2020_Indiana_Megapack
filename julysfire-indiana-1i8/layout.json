@@ -1,14 +1,19 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-indiana-1i8/ContentHistory.json",
+      "size": 144,
+      "date": 133213344434108377
+    },
+    {
       "path": "ContentInfo/julysfire-indiana-1i8/Thumbnail.jpg",
       "size": 31993,
       "date": 132617596945957560
     },
     {
       "path": "scenery/world/sceneryi18/1i8scene.bgl",
-      "size": 7151,
-      "date": 132750901821141485
+      "size": 7223,
+      "date": 133213344434068320
     }
   ]
 }

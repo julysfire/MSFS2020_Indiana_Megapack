@@ -1,19 +1,24 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-indiana-koxi/ContentHistory.json",
+      "size": 146,
+      "date": 133213345987865267
+    },
+    {
       "path": "ContentInfo/julysfire-indiana-koxi/Thumbnail.jpg",
       "size": 32756,
       "date": 132531704194062197
     },
     {
       "path": "MaterialLibs/mymaterialskoxi/Library.xml",
-      "size": 709,
-      "date": 132750901821282164
+      "size": 1160,
+      "date": 133213345985679598
     },
     {
-      "path": "MaterialLibs/mymaterialskoxi/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS",
+      "path": "MaterialLibs/mymaterialskoxi/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS",
       "size": 699236,
-      "date": 132750901822960505
+      "date": 132467536414401778
     },
     {
       "path": "MaterialLibs/mymaterialskoxi/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.FLAGS",
@@ -21,19 +26,14 @@
       "date": 132474240900365894
     },
     {
-      "path": "MaterialLibs/mymaterialskoxi/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.json",
+      "path": "MaterialLibs/mymaterialskoxi/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS.json",
       "size": 231,
-      "date": 132750901822950493
+      "date": 132467536414401778
     },
     {
       "path": "scenery/world/scenerykoxi/koxiscene.bgl",
-      "size": 28903,
-      "date": 132750901823350862
-    },
-    {
-      "path": "scenery/world/scenerykoxi/koxishapes.bgl",
-      "size": 1178,
-      "date": 132750901823480982
+      "size": 32504,
+      "date": 133213345987809669
     }
   ]
 }

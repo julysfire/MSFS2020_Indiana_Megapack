@@ -1,84 +1,84 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-indiana-kbfr/ContentHistory.json",
+      "size": 146,
+      "date": 133213344946291730
+    },
+    {
       "path": "ContentInfo/julysfire-indiana-kbfr/Thumbnail.jpg",
       "size": 28743,
       "date": 132668662397364513
     },
     {
       "path": "scenery/global/scenerykbfr/modelskbfr.BGL",
-      "size": 5025716,
-      "date": 132750901950702525
+      "size": 5025856,
+      "date": 133213344945651153
     },
     {
       "path": "scenery/global/scenerykbfr/texture/FBOCOLOR.PNG.DDS",
       "size": 11184952,
-      "date": 132750901907717096
+      "date": 132668639137482509
     },
     {
       "path": "scenery/global/scenerykbfr/texture/FBOCOLOR.PNG.DDS.json",
       "size": 102,
-      "date": 132750901907617006
+      "date": 132668639137482509
     },
     {
       "path": "scenery/global/scenerykbfr/texture/GLASSPANE.PNG.DDS",
       "size": 20192,
-      "date": 132750901892678613
+      "date": 132668639137492517
     },
     {
       "path": "scenery/global/scenerykbfr/texture/GLASSPANE.PNG.DDS.json",
       "size": 102,
-      "date": 132750901892678613
+      "date": 132668639137492517
     },
     {
       "path": "scenery/global/scenerykbfr/texture/HANGCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132750901924220733
+      "date": 132666380298760493
     },
     {
       "path": "scenery/global/scenerykbfr/texture/HANGCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132750901924060588
+      "date": 132666380298760493
     },
     {
       "path": "scenery/global/scenerykbfr/texture/PAVILLCOLOR.PNG.DDS",
       "size": 22369776,
-      "date": 132750901940612540
+      "date": 132497651990979681
     },
     {
       "path": "scenery/global/scenerykbfr/texture/PAVILLCOLOR.PNG.DDS.json",
       "size": 119,
-      "date": 132750901940442393
+      "date": 132497651990979681
     },
     {
       "path": "scenery/global/scenerykbfr/texture/PAVILLNORMAL.PNG.DDS",
       "size": 11184952,
-      "date": 132750901949951835
+      "date": 132497651990909617
     },
     {
       "path": "scenery/global/scenerykbfr/texture/PAVILLNORMAL.PNG.DDS.json",
       "size": 166,
-      "date": 132750901949851744
+      "date": 132497651990909617
     },
     {
       "path": "scenery/global/scenerykbfr/texture/TEX2.PNG.DDS",
       "size": 89478640,
-      "date": 132750901892508460
+      "date": 132445317996722910
     },
     {
       "path": "scenery/global/scenerykbfr/texture/TEX2.PNG.DDS.json",
       "size": 119,
-      "date": 132750901891597634
-    },
-    {
-      "path": "scenery/world/scenerykbfr/kbfrpolies.bgl",
-      "size": 7858,
-      "date": 132750901951322936
+      "date": 132445317996722910
     },
     {
       "path": "scenery/world/scenerykbfr/kbfrscene.bgl",
-      "size": 32506,
-      "date": 132750901951132908
+      "size": 38556,
+      "date": 133213344946231674
     }
   ]
 }

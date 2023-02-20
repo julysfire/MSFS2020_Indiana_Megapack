@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-indiana-kbfr",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KBFR",
+      "revision": 1
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-indiana-vegeterrain/ContentHistory.json",
+      "size": 68,
+      "date": 133213346173266949
+    },
+    {
       "path": "ContentInfo/julysfire-indiana-vegeterrain/Thumbnail.jpg",
       "size": 42261,
       "date": 132531704756600158
     },
     {
-      "path": "scenery/world/sceneryindianaveg/mainpolies.bgl",
-      "size": 2393052,
-      "date": 132750901820767815
-    },
-    {
       "path": "scenery/world/sceneryindianaveg/objects.bgl",
-      "size": 16552,
-      "date": 132750901804020805
+      "size": 1271814,
+      "date": 133213346172250904
     }
   ]
 }

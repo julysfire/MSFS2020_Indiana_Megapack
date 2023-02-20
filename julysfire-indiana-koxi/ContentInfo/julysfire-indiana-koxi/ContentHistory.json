@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-indiana-koxi",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KOXI",
+      "revision": 1
+    }
+  ]
+}

@@ -1,19 +1,24 @@
 {
   "content": [
     {
+      "path": "ContentInfo/julysfire-indiana-kmcx/ContentHistory.json",
+      "size": 146,
+      "date": 133213345397944039
+    },
+    {
       "path": "ContentInfo/julysfire-indiana-kmcx/Thumbnail.jpg",
       "size": 30130,
       "date": 132531703678142840
     },
     {
       "path": "MaterialLibs/mymaterialskmcx/Library.xml",
-      "size": 709,
-      "date": 132750901801256389
+      "size": 1160,
+      "date": 133213345395462675
     },
     {
-      "path": "MaterialLibs/mymaterialskmcx/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS",
+      "path": "MaterialLibs/mymaterialskmcx/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS",
       "size": 699236,
-      "date": 132750901803009891
+      "date": 132467536414401778
     },
     {
       "path": "MaterialLibs/mymaterialskmcx/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.FLAGS",
@@ -21,19 +26,14 @@
       "date": 132474240900365894
     },
     {
-      "path": "MaterialLibs/mymaterialskmcx/Textures/TexturesCom_Pavement_RoadSealed_1K_albedo.tif.DDS.json",
+      "path": "MaterialLibs/mymaterialskmcx/Textures/TEXTURESCOM_PAVEMENT_ROADSEALED_1K_ALBEDO.TIF.DDS.json",
       "size": 231,
-      "date": 132750901802999889
-    },
-    {
-      "path": "scenery/world/scenerykmcx/polyskmcx.bgl",
-      "size": 1152,
-      "date": 132750901803680498
+      "date": 132467536414401778
     },
     {
       "path": "scenery/world/scenerykmcx/scenekmcx.bgl",
-      "size": 46149,
-      "date": 132750901803540373
+      "size": 47859,
+      "date": 133213345397893984
     }
   ]
 }

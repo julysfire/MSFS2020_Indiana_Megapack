@@ -1,0 +1,10 @@
+{
+  "package-name": "julysfire-indiana-kmcx",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "KMCX",
+      "revision": 1
+    }
+  ]
+}
